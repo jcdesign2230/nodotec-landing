@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jcdesign2230.github.io/nodotec-landing/sitemap.xml
