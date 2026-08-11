@@ -9,7 +9,7 @@
 export const services = [
   {
     id: 'soporte-it',
-    name: 'Soporte IT',
+    name: 'Soporte Tecnico',
     problem: 'Computadoras lentas, Windows con errores, impresoras que no funcionan.',
     solution: 'Diagnóstico y solución de problemas de PCs, Windows, impresoras y Microsoft 365.',
     benefits: [
