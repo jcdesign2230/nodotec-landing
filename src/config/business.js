@@ -10,10 +10,10 @@ export const businessConfig = {
 
   // Reemplaza por el número real en formato internacional sin "+" ni espacios.
   // Ejemplo República Dominicana: 1 + código de área + número => 18091234567
-  whatsapp: '18090000000',
+  whatsapp: '18092290371',
 
-  email: 'contacto@nodotec.example.com',
-  location: 'Santiago, República Dominicana',
+  email: 'info.jcrodriguez@gmail.com',
+  location: 'Santiago De Los Caballeros, República Dominicana',
   serviceArea: 'Atendemos Santiago y alrededores. También trabajamos de forma remota en todo el país.',
 
   social: {
@@ -22,7 +22,7 @@ export const businessConfig = {
   },
 
   hero: {
-    eyebrow: 'Soporte IT · Redes · Sistemas · Automatización',
+    eyebrow: 'Soporte Técnico · Redes · Sistemas · Automatización',
     title: 'Haz que la tecnología trabaje para tu negocio.',
     subtitle:
       'Solucionamos problemas tecnológicos, digitalizamos procesos y automatizamos tareas para que puedas concentrarte en hacer crecer tu negocio.',
