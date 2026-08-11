@@ -18,7 +18,7 @@ export const businessConfig = {
 
   social: {
     instagram: 'https://instagram.com/[USUARIO]',
-    facebook: 'https://facebook.com/[PAGINA]',
+    facebook: 'https://web.facebook.com/profile.php?id=61593378562144',
   },
 
   hero: {
